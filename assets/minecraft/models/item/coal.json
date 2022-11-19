@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/coal"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "custom/yungwilder/hat_pack/antenna" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "custom/yungwilder/hat_pack/beanie" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "custom/yungwilder/hat_pack/bunny_ears" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "custom/yungwilder/hat_pack/captains_hat" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "custom/yungwilder/hat_pack/chef_hat" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "custom/yungwilder/hat_pack/cowboy_hat" },
+	{ "predicate": { "custom_model_data": 7 }, "model": "custom/yungwilder/hat_pack/goggles" },
+	{ "predicate": { "custom_model_data": 8 }, "model": "custom/yungwilder/hat_pack/halo" },
+	{ "predicate": { "custom_model_data": 9 }, "model": "custom/yungwilder/hat_pack/hard_hat" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "custom/yungwilder/hat_pack/kings_crown" },
+	{ "predicate": { "custom_model_data": 11 }, "model": "custom/yungwilder/hat_pack/rgb_headset_black" },
+	{ "predicate": { "custom_model_data": 12 }, "model": "custom/yungwilder/hat_pack/rgb_headset_white" },
+	{ "predicate": { "custom_model_data": 13 }, "model": "custom/yungwilder/hat_pack/straw_hat" },
+	{ "predicate": { "custom_model_data": 14 }, "model": "custom/yungwilder/hat_pack/top_hat" },
+	{ "predicate": { "custom_model_data": 15 }, "model": "custom/yungwilder/hat_pack/unicorn_hat" },
+	{ "predicate": { "custom_model_data": 16 }, "model": "custom/yungwilder/hat_pack/wizard_hat" }
+  ]
+}
